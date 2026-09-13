@@ -1,0 +1,6 @@
+.section-one-container {
+  background-color: lightgray;
+  display: flex;
+  padding: 30px;
+  justify-content: center;
+}

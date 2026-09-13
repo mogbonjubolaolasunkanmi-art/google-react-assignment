@@ -1,0 +1,49 @@
+.ps-card {
+  width: 360px;
+  height: 190px;
+
+  display: flex;
+
+  border: 1px solid #dadce0;
+  border-radius: 10px;
+
+  overflow: hidden;
+
+  background-color: white;
+}
+
+.ps-cardContent {
+  width: 66%;
+  padding: 30px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.ps-cardContent p {
+  margin: 0;
+  font-size: 28px;
+  line-height: 1;
+  font-weight: 300;
+
+  color: #37383a;
+}
+
+.external-icon {
+  font-size: 32px;
+  color: #1a73e8;
+}
+
+.ps-cardImage {
+  width: 34%;
+  height: 100%;
+}
+
+.ps-cardImage img {
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+  display: block;
+}

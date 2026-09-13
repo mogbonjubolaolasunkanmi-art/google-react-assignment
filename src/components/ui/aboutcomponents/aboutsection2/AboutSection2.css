@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+.as-container2 {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  /* gap: 30px; */
+}
+.hush {
+  /* width: 40%; */
+
+  h1 {
+    /* font-size: 76px; */
+    line-height: 1.02;
+    /* font-weight: 200; */
+    font-size: 60px;
+    font-weight: 200;
+  }
+  p {
+    /* max-width: 600px; */
+    font-size: 18px;
+  }
+}
+/* .image {
+  width: 150px;
+} */

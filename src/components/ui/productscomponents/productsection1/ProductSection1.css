@@ -1,0 +1,11 @@
+.ps-card-container {
+  width: 100%;
+  max-width: 1400px;
+
+  margin: 0 auto;
+  padding: 90px;
+
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}

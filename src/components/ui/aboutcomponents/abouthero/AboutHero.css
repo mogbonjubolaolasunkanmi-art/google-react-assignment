@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+.about-hero-container {
+  background-color: green;
+  background-image: url("../../../../assets/herobg.webp.webp");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+
+  .aboutHeroWrapper {
+    background-color: rgba(0, 0, 0, 0.5);
+
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+  }
+
+  h1 {
+    font-size: 60px;
+    font-weight: 200;
+  }
+
+  p {
+    /* background-color: red; */
+    max-width: 600px;
+    font-size: 18px;
+  }
+}

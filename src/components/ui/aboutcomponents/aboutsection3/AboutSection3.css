@@ -1,0 +1,22 @@
+.as-container3 {
+  background-color: #f3f5fb;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  height: 50%;
+  margin-top: 40px;
+  padding: 40px;
+  h1 {
+    font-size: 60px;
+    font-weight: 300;
+    /* margin: 0; */
+  }
+}
+.as-container-three {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  line-height: 0.8;
+}

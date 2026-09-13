@@ -1,0 +1,36 @@
+.header-container {
+  /* background-color: red; */
+  display: flex;
+  padding: 35px 0px;
+  padding-left: 30px;
+  gap: 40px;
+}
+
+.navigation {
+  display: flex;
+  gap: 25px;
+}
+
+.logo {
+  img {
+    width: 100px;
+  }
+}
+
+.rule {
+  height: 2px;
+  background-color: blue;
+  margin-top: 10px;
+  width: 55px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+nav {
+  padding: 10px;
+  border-radius: 2px;
+}
+nav:hover {
+  background-color: lightgray;
+}
