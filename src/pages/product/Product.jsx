@@ -5,6 +5,7 @@ import ProductSection1 from "../../components/ui/productscomponents/productsecti
 import ProductSection2 from "../../components/ui/productscomponents/productsection2/ProductSection2";
 import ProductSection3 from "../../components/ui/productscomponents/productsection3/ProductSection3";
 import ProductSection4 from "../../components/ui/productscomponents/productsection4/ProductSection4";
+import ProductSection5 from "../../components/ui/productscomponents/productsection5/ProductSection5";
 const Product = () => {
   // const googleProducts = [
   //   {
@@ -27,6 +28,7 @@ const Product = () => {
       <ProductSection2 />
       <ProductSection3 />
       <ProductSection4 />
+      <ProductSection5 />
     </div>
     // <div className="first">
     //   <div>
