@@ -1,6 +1,6 @@
 import AboutHero from "../../components/ui/aboutcomponents/abouthero/AboutHero";
 import AboutSection1 from "../../components/ui/aboutcomponents/aboutsection/Aboutsection1";
-import AboutSection2 from "../../components/ui/aboutcomponents/aboutsection2/Aboutsection2";
+import AboutSection2 from "../../components/ui/aboutcomponents/aboutsection2/AboutSection2";
 import AboutSection3 from "../../components/ui/aboutcomponents/aboutsection3/AboutSection3";
 import AboutSection4 from "../../components/ui/aboutcomponents/aboutsection4/AboutSection4";
 const About = () => {
