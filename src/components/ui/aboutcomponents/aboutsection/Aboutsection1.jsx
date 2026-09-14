@@ -1,4 +1,4 @@
-import "./AboutSection1.css";
+import "./Aboutsection1.css";
 import Cards from "../../../reusable/cards/Cards";
 import myCardImage2 from "../../../../assets/se2.png.png";
 import myCardImage3 from "../../../../assets/se3.png.png";
