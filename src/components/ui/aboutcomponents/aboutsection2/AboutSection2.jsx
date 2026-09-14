@@ -1,4 +1,4 @@
-import "./Aboutsection2.css";
+import "./AboutSection2.css";
 import Button from "../../../reusable/buttons/Button";
 import geminiImage from "../../../../assets/gemini-image.png";
 const AboutSection2 = () => {
