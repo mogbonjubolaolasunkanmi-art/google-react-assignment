@@ -1,4 +1,6 @@
 .first {
-  background-color: blue;
-  height: 70vh;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+  width: 100%;
 }

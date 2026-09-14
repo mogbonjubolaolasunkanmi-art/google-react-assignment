@@ -1,8 +1,9 @@
-import "./Company.css"
+import "./Company.css";
+import CompanyHero from "../../components/ui/companycomponents/companyhero/CompanyHero";
 const Company = () => {
   return (
-    <div className="first-container">
-      <h1>getting started</h1>
+    <div>
+      <CompanyHero />
     </div>
   );
 };
